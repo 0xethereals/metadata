@@ -3,6 +3,7 @@
   "description": "16 unique 16x16 Pixel Goddesses living on-chain inside Ethereum calldata and representing 16 hex symbols. Timeless. Eternal. Rare.",
   "total_supply": "16",
   "logo_image_uri": "esc://ethscriptions/0xaa41dc8c1e8b8cbba347924646a2a9189c32fb2203cfceac703c0bee86ad380a/data",
+  "background_color": "#C3FF02",
   "banner_image_uri": "",
   "twitter_link": "https://twitter.com/0xEthereals",
   "website_link": "",
